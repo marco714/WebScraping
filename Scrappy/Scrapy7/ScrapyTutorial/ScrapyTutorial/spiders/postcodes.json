@@ -1,0 +1,34 @@
+[
+    {
+        "postcode":"AB10",
+        "locationId":"OUTCODE^1"
+    },
+    {
+        "postcode":"AB11",
+        "locationId":"OUTCODE^2"
+    },
+    {
+        "postcode":"AB12",
+        "locationId":"OUTCODE^3"
+    },
+    {
+        "postcode":"AB13",
+        "locationId":"OUTCODE^4"
+    },
+    {
+        "postcode":"AB14",
+        "locationId":"OUTCODE^5"
+    },
+    {
+        "postcode":"AB15",
+        "locationId":"OUTCODE^6"
+    },
+    {
+        "postcode":"AB16",
+        "locationId":"OUTCODE^7"
+    },
+    {
+        "postcode":"AB21",
+        "locationId":"OUTCODE^8"
+    }
+]
